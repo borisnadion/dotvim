@@ -42,6 +42,7 @@ NeoBundle 'austintaylor/vim-indentobject'
 NeoBundle 'greplace.vim'
 " better looking statusline
 NeoBundle 'bling/vim-airline'
+NeoBundle 'vim-airline/vim-airline-themes'
 " plugin for resolving three-way merge conflicts
 NeoBundle 'sjl/splice.vim'
 " plugin for visually displaying indent levels
@@ -117,9 +118,11 @@ NeoBundle 'groenewege/vim-less'
 NeoBundle 'mustache/vim-mustache-handlebars'
 NeoBundle 'mtscout6/vim-cjsx'
 NeoBundle 'vitaly/vim-literate-coffeescript'
-NeoBundle 'rust-lang/rust', {'rtp': 'src/etc/vim/'}
-NeoBundle 'pangloss/vim-javascript'
+NeoBundle 'zerowidth/vim-copy-as-rtf'
 NeoBundle 'mxw/vim-jsx'
+NeoBundle 'othree/yajs.vim'
+
+" NeoBundle 'rust-lang/rust', {'rtp': 'src/etc/vim/'}
 
 " clojure
 "NeoBundle 'VimClojure'
