@@ -119,7 +119,8 @@ NeoBundle 'mustache/vim-mustache-handlebars'
 NeoBundle 'mtscout6/vim-cjsx'
 NeoBundle 'vitaly/vim-literate-coffeescript'
 NeoBundle 'zerowidth/vim-copy-as-rtf'
-NeoBundle 'mxw/vim-jsx'
+NeoBundle 'jiangmiao/simple-javascript-indenter'
+NeoBundle 'cciocov/vim-jsx'
 NeoBundle 'othree/yajs.vim'
 
 " NeoBundle 'rust-lang/rust', {'rtp': 'src/etc/vim/'}
